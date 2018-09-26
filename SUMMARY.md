@@ -18,10 +18,10 @@
 
 ## 常见问题
 
-* [什么是虚拟股，为什么要用虚拟股？](new/shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md)
-* [什么是期权？什么是受限股？股权激励的工具有哪些？](new/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie.md)
-* [持股方式的不同对我来意味着什么？](new/chi-gu-fang-shi-de-bu-tong-dui-wo-lai-yi-wei-zhe-shen-me.md)
-* [什么是子计划，有什么用？](new/shen-me-shi-zi-ji-hua-you-shen-me-yong.md)
+* [什么是虚拟股，为什么要用虚拟股？](chang-jian-wen-ti/shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md)
+* [什么是期权？什么是受限股？](chang-jian-wen-ti/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie.md)
+* [持股方式的不同对我来意味着什么？](chang-jian-wen-ti/chi-gu-fang-shi-de-bu-tong-dui-wo-lai-yi-wei-zhe-shen-me.md)
+* [什么是子计划，有什么用？](chang-jian-wen-ti/shen-me-shi-zi-ji-hua-you-shen-me-yong.md)
 
 ## 其他
 

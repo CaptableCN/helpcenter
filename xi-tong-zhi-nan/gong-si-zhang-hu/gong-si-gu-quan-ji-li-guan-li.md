@@ -32,7 +32,7 @@
 
 为寻求海外上市的公司在搭建VIE架构后，以开曼公司作为上市主体的公司，由于在登记注册时直接采用了_额定股数（ authorised shares）_，可以直接在此记录额定股数。
 
-{% page-ref page="../../new/shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md" %}
+{% page-ref page="../../chang-jian-wen-ti/shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md" %}
 
 **当前注册资本**：公司制定股权激励计划时的注册资本总额，通常与**当前总虚拟股数**挂钩
 
@@ -55,15 +55,15 @@
 点击“下一步”出现激励计划创建窗口-步骤2/3  
 
 
-![&#x521B;&#x5EFA;&#x6FC0;&#x52B1;&#x8BA1;&#x5212;-&#x6B65;&#x9AA4;2/3](../../.gitbook/assets/image%20%2889%29.png)
+![&#x521B;&#x5EFA;&#x6FC0;&#x52B1;&#x8BA1;&#x5212;-&#x6B65;&#x9AA4;2/3](../../.gitbook/assets/image%20%2893%29.png)
 
 系统默认公司仅有一个子计划，可点击绿色的“点击添加子计划”按钮，添加新的子计划，或者直接点“下一步”跳过
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
-{% page-ref page="../../new/shen-me-shi-zi-ji-hua-you-shen-me-yong.md" %}
+{% page-ref page="../../chang-jian-wen-ti/shen-me-shi-zi-ji-hua-you-shen-me-yong.md" %}
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 编辑完子计划后，点击“下一步”出现激励计划创建窗口-步骤3/3
 
@@ -71,15 +71,15 @@
 
 需根据公司当前的股权激励计划，对应激励股权持股方式。
 
-{% page-ref page="../../new/chi-gu-fang-shi-de-bu-tong-dui-wo-lai-yi-wei-zhe-shen-me.md" %}
+{% page-ref page="../../chang-jian-wen-ti/chi-gu-fang-shi-de-bu-tong-dui-wo-lai-yi-wei-zhe-shen-me.md" %}
 
 如持股方式为**股东代持**，则点击持股方式右侧的单选按钮，并点击“请选择代持股东”菜单按钮，在弹出的菜单中选择“+添加新的代持股东”
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 在添加代持股东弹窗中，录入代持股东姓名、证件号码、及在工商登记的认缴出资额，输入完成后点击绿色“添加”按钮
 
-![&#x6DFB;&#x52A0;&#x4EE3;&#x6301;&#x80A1;&#x4E1C;](../../.gitbook/assets/image%20%2878%29.png)
+![&#x6DFB;&#x52A0;&#x4EE3;&#x6301;&#x80A1;&#x4E1C;](../../.gitbook/assets/image%20%2882%29.png)
 
 若选择持股方式为**持股平台**，则点击持股平台选项右侧的单选按钮，并点击“请选择持股平台”菜单按钮，在弹出的菜单中选择“+添加新的持股平台”。
 
@@ -93,15 +93,15 @@
 
 **认缴出资额**：持股平台在股权激励授予主体持有股权所对应的注册资本
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
 设置完持股方式后，点击下方蓝色“完成”按钮，即完成公司股权激励计划的系统导入
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 进入股权激励计划概览页面，可以看到当前的**期权池信息**、**持股信息**及**子计划详情**
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 ### 2. 添加股权激励证书草稿
 
@@ -109,21 +109,21 @@
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-{% page-ref page="../../new/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie.md" %}
+{% page-ref page="../../chang-jian-wen-ti/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie.md" %}
 
 #### 添加期权证书草稿
 
 进入期权列表（如添加受限股则进入受限股列表），点击右侧的“添加期权”按钮
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 点击“新建授予草稿”按钮
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 出现股权激励授予信息输入弹窗
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
 在授予草稿弹窗中输入以下授予信息：
 
@@ -159,11 +159,11 @@
 
 如设置兑现安排，则同时需输入兑现起算日期（即从哪一天开始计算股权兑现）。
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 如激励对象的激励股权不设置对象条件，则选择“立即兑现”
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
 #### 6.附件文档
 
@@ -177,11 +177,11 @@
 
 点击授予草稿弹窗下方绿色“保存”按钮
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 期权草稿箱中出现新的期权证书草稿记录
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ### 3. 证书签字
 
@@ -191,7 +191,7 @@
 
 公司系统股权激励授予签字人将收到消息中心提醒（可在公司管理中更改股权激励签字人）
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 {% page-ref page="gong-si-she-zhi/she-zhi-gong-si-xi-tong-qian-zi-ren.md" %}
 
@@ -207,7 +207,7 @@
 
 点击操作按钮，出现签字框（如签字人未实名认证，会出现实名认证提示框）
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
 根据提示输入真实姓名作为签名并点击下方蓝色“签名并发送”按钮，即成功完成签名。
 
@@ -215,11 +215,11 @@
 
 当公司签字人完成签字后，激励对象会收到签字邀请，打开消息中心
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 点击操作按钮，出现签字框（如签字人未实名认证，会出现实名认证提示框）
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 根据提示输入真实姓名作为签名并点击下方蓝色“签名并发送”按钮，激励对象签名完成即代表确认并接受证书。
 
@@ -229,13 +229,13 @@
 
 公司系统的`股权激励`期权列表中，出现新的股权激励授予记录
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 ### 4.调整股权激励计划
 
 在股权激励中，点击页面右上方的“计划管理”弹窗按钮
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 出现计划管理弹窗菜单，功能分别如下：
 
@@ -245,7 +245,7 @@
 
 在计划设置弹窗中，点击绿色“更新计划”按钮
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 在新的弹窗中，输入更新后的激励计划，例如这里我们将期权池大小从15%调整到20%，点击“下一步，确认本次更新”绿色按钮
 
@@ -253,7 +253,7 @@
 调整后的期权池股数不可小于当前已在系统授予股权证书对应的股数总和
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 在确认弹窗中，点击“保存更新”按钮
 

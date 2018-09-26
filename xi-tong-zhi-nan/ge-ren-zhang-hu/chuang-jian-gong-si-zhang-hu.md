@@ -8,11 +8,11 @@
 
 在公司列表页面，点击创建公司按钮
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 在弹出窗口输入公司信息，并点击“创建”按钮
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 公司账户创建成功后，即可进入公司系统页面：
 
