@@ -18,6 +18,7 @@
 
 ## 常见问题
 
+* [公司的股权激励该如何做？](chang-jian-wen-ti/gong-si-de-gu-quan-ji-li-gai-ru-he-zuo.md)
 * [什么是虚拟股，为什么要用虚拟股？](chang-jian-wen-ti/shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md)
 * [什么是期权？什么是受限股？](chang-jian-wen-ti/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie/README.md)
   * [期权的行权价如何设定](chang-jian-wen-ti/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie/qi-quan-de-hang-quan-jia-ru-he-she-ding.md)
