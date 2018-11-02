@@ -4,7 +4,7 @@
 
 国内的多数非上市公司都是有限责任公司，并未发行股票，在股权激励时通常采用**期权**与**受限股**模式。但其基本原理本质上与上市公司采用的**股票期权**和**限制性股票**并无太大差别（由于没有发行股票，最终获得的是**股权**），通过引入**虚拟股**的概念（将公司的注册资本拆分成一定数量的虚拟股单位，并按照一定的虚拟股数量来授予），可以实现与**股票期权**和**限制性股票**相近的操作模式。
 
-{% page-ref page="shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md" %}
+{% page-ref page="../shen-me-shi-xu-ni-gu-wei-shen-me-yao-yong-xu-ni-gu.md" %}
 
 期权（股票期权）
 
@@ -14,7 +14,7 @@
 
 本质：被授予人在被授予时出资购买的一定数量的公司股权。
 
-![&#x80A1;&#x7968;&#x671F;&#x6743;&#x4E0E;&#x9650;&#x5236;&#x6027;&#x80A1;&#x7968;&#x5BF9;&#x6BD4;](../.gitbook/assets/image%20%2838%29.png)
+![&#x80A1;&#x7968;&#x671F;&#x6743;&#x4E0E;&#x9650;&#x5236;&#x6027;&#x80A1;&#x7968;&#x5BF9;&#x6BD4;](../../.gitbook/assets/image%20%2838%29.png)
 
 ![](file:///C:\Users\lukas\AppData\Roaming\Tencent\Users\262232793\QQ\WinTemp\RichOle\41G{}6F$]5JD_F74W1OI1EI.png)
 

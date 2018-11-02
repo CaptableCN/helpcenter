@@ -109,7 +109,7 @@
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
-{% page-ref page="../../chang-jian-wen-ti/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie.md" %}
+{% page-ref page="../../chang-jian-wen-ti/shen-me-shi-qi-quan-shen-me-shi-shou-xian-gu-gu-quan-ji-li-de-gong-ju-you-na-xie/" %}
 
 #### 添加期权证书草稿
 

@@ -6,11 +6,11 @@
 
 点击访问SaaS登录页面：
 
-{% embed data="{\"url\":\"https://www.captable.cn\",\"type\":\"link\",\"title\":\"规股–精益股权管理\",\"description\":\"规股，股权知识学习+股权方案设计+股权管理系统，零成本/低成本、效率高、效果佳、完整的一站式解决方案。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.captable.cn/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://www.captable.cn" %}
 
-{% embed data="{\"url\":\"https://www.captable.cn\",\"type\":\"link\",\"title\":\"规股–精益股权管理\",\"description\":\"规股，股权知识学习+股权方案设计+股权管理系统，零成本/低成本、效率高、效果佳、完整的一站式解决方案。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.captable.cn/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://www.captable.cn" %}
 
-{% embed data="{\"url\":\"https://saas.captable.cn/\",\"type\":\"link\",\"title\":\"规股登录注册\",\"icon\":{\"type\":\"icon\",\"url\":\"https://saas.captable.cn/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://saas.captable.cn/" %}
 
 点击红框中的“注册”
 
