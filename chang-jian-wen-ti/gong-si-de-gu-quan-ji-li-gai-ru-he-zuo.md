@@ -49,6 +49,8 @@
 
 比较常见的为4年期，每月成熟一次（每次成熟1/48\)；或者每年成熟一次（每年成熟1/4\);也有在第一种（每月成熟）的基础上设置最短生效期（也就是考察期）的，见下表：![](file:///C:/Users/lukas/AppData/Local/YNote/data/weixinobU7VjjhNqketxUaoUXVapfQmTbo/88c7f6e680cd42ce8531b409283e60a3/clipboard.png)
 
+![](../.gitbook/assets/image%20%2897%29.png)
+
 业绩指标
 
 可以结合公司给激励对象或者公司整体设定的业绩指标或者里程碑时点，比如：
