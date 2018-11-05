@@ -33,4 +33,5 @@
   * [持股平台](qi-ta/gu-quan-ji-li-wen-jian-mo-ban/untitled-1.md)
   * [直接持股](qi-ta/gu-quan-ji-li-wen-jian-mo-ban/untitled-2.md)
 * [规股股权分配法](https://mp.weixin.qq.com/s/GoDV-TtHAlrI5a8yBZYJJA)
+* [创业公司股权激励内部退出机制](https://zhuanlan.zhihu.com/p/47891456)
 
